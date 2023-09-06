@@ -1,3 +1,3 @@
-  #IDA_docs_ShellBootcamp
+#IDA_docs_ShellBootcamp
 
 Documents for Custom Bootcamp, Shell
